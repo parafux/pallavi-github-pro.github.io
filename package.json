@@ -1,7 +1,7 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "homepage": "https://pallavi-github-pro.io",
+  "homepage": "https://pallavi-github-pro.github.io/pallavi-github-pro.io",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
