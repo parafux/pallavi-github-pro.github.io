@@ -1,12 +1,11 @@
 {
     "main": {
-        "name": "Miss Verification",
-        "description": "I'm a verification engineer...",
+        "name": "Abstract Art",
+        "description": "Welcome to my online gallery...",
         "image": "bg.jpg",
         "bio": "I paint abstract art for fun.",
-        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-        "email": "youremailhere@gmail.com",
-        "phone": "555-555-5555",
+        "contactmessage": "Contact me...",
+        "email": "ms.pallavi.rao@gmail.com",        
         "github": "https://github.com/",
         "project": "https://github.com/",
         "address": {
@@ -102,25 +101,31 @@
             {
                 "title": "Gryffindor Project",
                 "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project1.jpg",
+                "image": "galerie.jpg",
                 "url": "https://www.google.com"
             },
             {
                 "title": "Gryffindor Project",
                 "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project2.jpg",
+                "image": "vortex.jpg",
                 "url": "https://www.google.com"
             },
             {
                 "title": "Gryffindor Project",
                 "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project3.jpg",
+                "image": "wald.jpg",
                 "url": "https://www.google.com"
             },
             {
                 "title": "Gryffindor Project",
                 "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project4.jpg",
+                "image": "revolution.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "pferde.jpg",
                 "url": "https://www.google.com"
             }
         ]
